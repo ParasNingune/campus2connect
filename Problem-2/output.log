@@ -1,0 +1,5 @@
+--- Fixed Buffer Output ---
+Buffer 1: data_len = 32, data = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef"
+Buffer 2: data_len = 18, data = "ghijklmnopqrstuvwx"
+Buffer 3: data_len = 20, data = "ABCDEFGHIJKLMNOPQRST"
+SUCCESS: Data copied to fixed_buff list
