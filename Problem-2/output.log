@@ -1,5 +1,16 @@
---- Fixed Buffer Output ---
+
+File: input1.txt
 Buffer 1: data_len = 32, data = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef"
-Buffer 2: data_len = 18, data = "ghijklmnopqrstuvwx"
-Buffer 3: data_len = 20, data = "ABCDEFGHIJKLMNOPQRST"
+Buffer 2: data_len = 10, data = "1234567890"
+Buffer 3: data_len = 26, data = "HelloWorldFromCProgramming"
 SUCCESS: Data copied to fixed_buff list
+
+
+File: input2.txt
+Buffer 1: data_len = 32, data = "abcdefghijklmnopqrstuvwxyzabcdef"
+SUCCESS: Data copied to fixed_buff list
+
+
+File: input3.txt
+No data processed from input (empty stream)
+
